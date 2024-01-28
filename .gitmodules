@@ -1,0 +1,9 @@
+[submodule "vulkan-sim-root/vulkan-sim"]
+	path = vulkan-sim-root/vulkan-sim
+	url = https://github.com/quanzw99/vulkan-sim
+[submodule "vulkan-sim-root/mesa-vulkan-sim"]
+	path = vulkan-sim-root/mesa-vulkan-sim
+	url = https://github.com/quanzw99/mesa-vulkan-sim
+[submodule "RayTracingInVulkan"]
+	path = RayTracingInVulkan
+	url = https://github.com/quanzw99/RayTracingInVulkan
